@@ -3,17 +3,12 @@ Exercice 1:
  Site 1: 207.180.211.231
  Site 2: 149.102.155.141
 
+
 1- Démarrer sur site1 un nœud serveur et sur site2 un noeud client.
- D'abord il faut entrer dans l'emplacement du dossier apache-ignite-slim-2.13.0-bin en faisant:
- Site 1:
  cd C:\apache-ignite-slim-2.13.0-bin
  cd apache-ignite-slim-2.13.0-bin
  cd bin
  ssh root@207.180.211.231
---------------------------------------------------
-Microsoft Windows [Version 10.0.19043.1586]
-(c) Microsoft Corporation. All rights reserved.
-
 C:\Users\user>cd C:\apache-ignite-slim-2.13.0-bin
 
 C:\apache-ignite-slim-2.13.0-bin>cd apache-ignite-slim-2.13.0-bin
@@ -74,8 +69,6 @@ INSERT INTO City (id, name) VALUES (2, 'Come');
 INSERT INTO City (id, name) VALUES (3, 'Ouidah');
 SELECT * FROM City;
 Dire ce que vous constatez.
-
-Sur le site 1 il faut faire:
 
   cd C:\apache-ignite-slim-2.13.0-bin
  cd apache-ignite-slim-2.13.0-bin
