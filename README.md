@@ -155,11 +155,4 @@ SELECT * FROM PERSON;
 Dire ce que vous constater.
 Tirer une conclusion.
 
-a- Aller au niveau de l'interface de la creation du noeud client (site 2) et faire <<!exit>> puis <<ctrl C>> 
-b- Aller au niveau du cmd de la question 3 puis inserrer ceci:
-SELECT * FROM PERSON;
-
-constat: la table a ete replique
-
-conclusion: il s'agit d'un systeme de base de donnes distribues.
-
+Après exécution on constate que la table a été repliquée et on conclut qu'il s'agit d'un système de base de données distribuées
