@@ -3,7 +3,6 @@ Exercice 1:
  Site 1: 207.180.211.231
  Site 2: 149.102.155.141
 
-
 1- Démarrer sur site1 un nœud serveur et sur site2 un noeud client.
  cd C:\apache-ignite-slim-2.13.0-bin
  cd apache-ignite-slim-2.13.0-bin
